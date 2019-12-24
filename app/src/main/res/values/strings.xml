@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">PFirstAndroidStudio</string>
     <string name="tvFAInput">"请输入："</string>
+    <string name="etFAInput_hint">"请输入内容"</string>
 </resources>
